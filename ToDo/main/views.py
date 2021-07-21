@@ -4,16 +4,24 @@ from django.shortcuts import render
 
 posts = [
     {
-        "Content": "Learn Spanish",
-        "Status": False
+        "content": "Learn Spanish",
+        "status": False
     },
     {
-        "Content": "Make ToDo App",
-        "Status": False
+        "content": "Make ToDo App",
+        "status": False
     },
     {
-        "Content": "Sleep",
-        "Status": False
+        "content": "Sleep",
+        "status": False
+    },
+    {
+        "content": "College Work",
+        "status": False
+    },
+    {
+        "content": "WWWWWWWWWWWWWWWWWWWWWWWWW",
+        "status": False
     },
 ]
 
